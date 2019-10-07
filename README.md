@@ -5,7 +5,7 @@ Hi,
 
 Here's my README file for this test :
 - The time it took you to perform the exercise:
- I finished this exercise at 12.30am
+ I finished this exercise at 12.10am
  
 - The parts that were difficult for you and why:
 To be honest, what I struggled the most with was sharing my project on GIT. I'm more used to Perforce when it comes to submit files.
