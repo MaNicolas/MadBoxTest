@@ -1,4 +1,3 @@
-# MadBoxTest
 Hi,
 
 Here's a small prototype I created for fun a while ago, using the Unity engine. It took me around 3 hours.
