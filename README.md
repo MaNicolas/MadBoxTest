@@ -9,5 +9,4 @@ If you get touch by the blocks, you'll end up starting all over again. Same goes
 You've got 35 seconds to finish the race.
 Once you reach the end of the level, a UI menu leads you to the next level (just a UI button, there's no next level :)) or you can restart it.
 
-Thanks for reading me and have a nice day,
-Nicolas MA
+Thanks for reading me and have a nice day.
